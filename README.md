@@ -13,7 +13,7 @@ beberapa hal yang kita bahas tentang Git :
 - bagaimana untuk menghandle file yang konflik
 - bagaimana cara menghapus branch yang di lokal dan yang di remote repo
 
-### SESI 2
+### [SESI 2](https://github.com/ANNASBlackHat/BinarBatch8/tree/master/Sesi2)
 sesi 2 kita mulai berlajar basic tentang java. Beberapa hal yang di bahas di sesi 2 :
 - Variable dan tipe data
 - Class
