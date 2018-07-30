@@ -1,7 +1,7 @@
 public class Main implements DataListener {
 
     public static void main(String[] args) {
-        new Main().processData();
+
     }
 
     void processData(){

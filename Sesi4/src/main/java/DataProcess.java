@@ -1,4 +1,5 @@
 public class DataProcess {
+    static String name;
 
     String result;
 
