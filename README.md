@@ -23,3 +23,15 @@ sesi 2 kita mulai berlajar basic tentang java. Beberapa hal yang di bahas di ses
 - Penggunaan keyword 'this' dan 'super'
 - Inheritance
 - Override
+
+### [SESI 3](https://github.com/ANNASBlackHat/BinarBatch8/tree/master/Sesi3)
+Sesi 3 kali ini kita fokus pada pembahasan Collection, plus ada beberapa penjelasan tambahan tentang OOP. Detail dari apa yang sudah kita bahas pada pertemuan 3 adalah:
+- Array (String, int, etc)
+- List Collection
+- Cara menambahkah data ke dalam List sekaligus cara mendapatkan data dari List
+- Cara looping List 
+- Penjelasan apa itu object & bagaimana cara meng-casting object
+- if statement & switch
+- Penjelasan tentang Static
+- Pembahasan Access Modifier
+- Penjelasan tambahan tentang Inheritance
