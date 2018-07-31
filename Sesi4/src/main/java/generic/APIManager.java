@@ -3,6 +3,7 @@ package generic;
 import com.google.gson.Gson;
 
 public class APIManager {
+
     String bookJson = "{\n" +
             "\t\"status\": true,\n" +
             "\t\"status_code\": 1,\n" +
