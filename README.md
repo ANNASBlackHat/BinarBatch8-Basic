@@ -35,3 +35,15 @@ Sesi 3 kali ini kita fokus pada pembahasan Collection, plus ada beberapa penjela
 - Penjelasan tentang Static
 - Pembahasan Access Modifier
 - Penjelasan tambahan tentang Inheritance
+
+### [SESI 4](https://github.com/ANNASBlackHat/BinarBatch8/tree/master/Sesi4)
+Pertemuan ke-4 kita membahas hal lain tentang OOP. Dan ada juga pembahasan tentang Generic Class. Detail dari sesi 4:
+- Pengenalan tentang Interface di java
+- Basic Syntax Interface dan cara implement interface di Class
+- Implement interface di inner class
+- penjelasan kenapa kita perlu interface, dan kapan kondisi saat kita benar-benar harus menggunakan interface
+- pembahasan perbedaan Interface dan Class
+- default method di interface
+- Pengenalan Generic Class di java
+- Penggunaan Generic Class di method
+- Contoh kasus penggunaan Generic Class
