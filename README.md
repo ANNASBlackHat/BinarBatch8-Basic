@@ -53,3 +53,10 @@ Pada pertemuan ke 5 kita mencoba kembali memperdalam tentang Interface dengan ka
 Rekap dari pertemuan 5 :
 - Mereview kembali tentang Interface dengan studi kasus berbeda
 - Abstract : dengan langsung penerapan nya pada masalah yang di coba solve dengan menggunakan konsep Abstract Class
+
+### [SESI 6](https://github.com/ANNASBlackHat/BinarBatch8/tree/master/Sesi6)
+Sesi 6 adalah sesi terakhir untuk basic Java. Pada sesi init kita membahas hal-hal basic yang belum kita pelajari pada sesi sebelumnya, yang sekira nya hal itu akan di temukan pada saat coding Android.
+Rekap dari sesi 6 (Final) :
+- Polymorphism
+- Enum
+- Builder Pattern (Studi kasus : AlertDialog android)
