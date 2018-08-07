@@ -47,3 +47,9 @@ Pertemuan ke-4 kita membahas hal lain tentang OOP. Dan ada juga pembahasan tenta
 - Pengenalan Generic Class di java
 - Penggunaan Generic Class di method
 - Contoh kasus penggunaan Generic Class
+
+### [SESI 5](https://github.com/ANNASBlackHat/BinarBatch8/tree/master/Sesi5)
+Pada pertemuan ke 5 kita mencoba kembali memperdalam tentang Interface dengan kasus yang berbeda dari kasus sebelumnya. Dengan tujuan agar siswa lebih memahami tentang penggunaan Interface dalam pemrograman Java. Setelah membahas tentang interface, kita langsung memahami tentang Abstract class dengan langsung mencoba studi kasus.
+Rekap dari pertemuan 5 :
+- Mereview kembali tentang Interface dengan studi kasus berbeda
+- Abstract : dengan langsung penerapan nya pada masalah yang di coba solve dengan menggunakan konsep Abstract Class
